@@ -4,12 +4,15 @@ Androgynous
 Apache Helicopter
 Bigender
 Bi-Gendered
+Binary
 Bloke
 Boo Boo
 Butch
 Catgirl
 Catboy
 Catperson
+Catman
+Catwoman
 Cis
 Cisgender
 Cis Female
@@ -72,6 +75,8 @@ Pangender
 Pangalactic
 Person of Transgender Experience
 Pirate
+Pony Female
+Pony Male
 Programmer
 Robot Male
 Robot Female
@@ -82,6 +87,7 @@ The Artist Formerly Known as Prince
 Three-Sprirt
 Third Sex
 Tomboy
+Tomgirl
 Trans
 Trans*
 Trans Female
